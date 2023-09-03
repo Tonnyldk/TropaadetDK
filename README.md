@@ -1,2 +1,2 @@
 # TropaadetDK ;)
-Website for Tropaadet.dk
+Website for Tropaadet.dk.
