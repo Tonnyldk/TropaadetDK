@@ -1,2 +1,2 @@
-# TropaadetDK
+# TropaadetDK ;)
 Website for Tropaadet.dk
